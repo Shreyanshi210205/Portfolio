@@ -2,9 +2,9 @@
 
 A sleek, modern, and responsive portfolio bootstrapped with [create-t3-app](https://create.t3.gg/).
 
-[Website Preview]((https://github.com/Shreyanshi210205/Portfolio))
+[Website Preview](https://github.com/Shreyanshi210205/Portfolio)
 
-[🔗 Link to portfolio]((https://portfolio-bay-chi-73.vercel.app/))
+[🔗 Link to portfolio](https://portfolio-bay-chi-73.vercel.app/)
 
 All you need to know about me, my projects and skills can be found here. 
 For any issues, feel free to report them here.
